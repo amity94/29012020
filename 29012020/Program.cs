@@ -83,7 +83,7 @@ namespace _29012020
                 var t3 = type.GetType();
                 var t4 = type.GetType();
                 if(t3 == t4)
-                {
+                { 
                     Console.WriteLine();
                 }
             }
