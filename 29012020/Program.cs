@@ -69,7 +69,7 @@ namespace _29012020
             Type employee_type = Type.GetType("_29012020.Employee");
             Type type = Type.GetType("_29012020.Employee");
             Employee emp = new Employee();
-            if(type == employee_type)
+            if(type == employee_type) 
             {
                 if(type == typeof(Employee))
                 {
